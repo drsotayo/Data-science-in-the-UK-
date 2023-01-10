@@ -32,15 +32,7 @@ This analysis aims to answer some questions related to **Data Science Profession
     
 > It is also worth highlighting that **Data Science Professionals** cover various job titles and responsibilities, and this analysis covers Data Science Professionals broadly. This includes those that are involved with different aspects of the **Data Analytics Lifecycle**, including Data Analysts, Data Managers, Data Scientists, Data Engineers, Data Professors, Data Administrators, Data Architects, Machine Learning Engineers etc.
 
-
-![newplot (1)](https://user-images.githubusercontent.com/86897066/146622238-d08e5f27-d960-4ad9-b073-0f989bea7e53.png)
-![newplot (2)](https://user-images.githubusercontent.com/86897066/146622243-bc6770fb-ed79-4ff0-aac2-4e0f0e2a97ac.png)
-![newplot (3)](https://user-images.githubusercontent.com/86897066/146622249-b68b415d-d0b1-4472-8007-01284d26ff2a.png)
-![newplot (5)](https://user-images.githubusercontent.com/86897066/146622256-f4681c86-d937-4e2b-aad0-7919f8d84a18.png)
-![newplot (6)](https://user-images.githubusercontent.com/86897066/146622259-2234cd79-5131-4400-9168-02a652199aff.png)
-![newplot (7)](https://user-images.githubusercontent.com/86897066/146622263-9cee57fb-a653-44b4-be3f-2a914f1c2d06.png)
-![newplot (8)](https://user-images.githubusercontent.com/86897066/146622266-6599f96d-2a1d-4801-9664-6babb671ea93.png)
-
+![download](https://user-images.githubusercontent.com/86897066/211439862-ae7b78cb-7080-43fa-a3dc-c3c9d6cc71ba.png)
 
 ## Concluding Remarks
 
